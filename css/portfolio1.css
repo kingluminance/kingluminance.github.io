@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+.title-bg {
+    background-image: linear-gradient(to bottom, #499add, #4e61c0);
+    height: 550px;
+    padding: 20px;
+    color: white;
+}
+
+.font-st {
+    color: white;
+}
+
+.title-tex {
+    float: left;
+    margin-top: 50px;
+}
+
+.title-container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.title-button {
+}
+
+.iphone-box {
+    float: right;
+    width: 400px;
+    margin-top: 95px;
+}
